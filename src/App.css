@@ -1,0 +1,120 @@
+.signupbutton{
+  margin:0px 10px;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+/* Footer Images */
+.wi {
+  height: 500px;
+}
+
+.wi img {
+  height: 500px;
+}
+/* Courses MegaMenue CSS by Prachi
+.navbar .megamenu{ padding: 2rem; background-color: rgb(190, 219, 233);}
+    /* ============ desktop view ============ */
+   /* @media all and (min-width: 500px) {
+      
+      .navbar .has-megamenu{position:static!important;}
+      .navbar .megamenu{ left:20px; right: 20px;; width:60%; margin-top:0;margin-left: 50px;margin-right: 50px; }
+      
+    }	
+
+    @media(max-width: 991px){
+      .navbar.fixed-top .navbar-collapse, .navbar.sticky-top .navbar-collapse{
+        overflow-y: auto;
+          max-height: 90vh;
+          margin-top:10px;
+      }
+      }
+
+      .megamenu a{
+        font-size: 17px;
+     }
+    .megamenu a:hover{
+        color: rgb(238, 56, 71);
+        font-size: 23px;
+     }
+    .megamenu h6{
+        color: black;
+        font-size: 20px;
+    }
+
+    input[type=search] {
+      width: 200px;
+      box-sizing: border-box;
+      border: 2px solid #ccc;
+      border-radius: 40px;
+      font-size: 16px;
+      background-color: white;
+      background-position: 10px 10px; 
+      background-repeat: no-repeat;
+      padding: 12px 20px 12px 40px;
+      -webkit-transition: width 0.4s ease-in-out;
+      transition: width 0.4s ease-in-out;
+    }
+    form.d-flex input[type=search]:focus {
+      width: 400px;
+    }
+    .navbar-collapse {
+      font-size: 20px;
+    }
+    nav{
+      background-color:#364F6B;
+      color: #ccc;
+    }
+     
+    button {
+      float: left;
+      width: 20%;
+      background:#364F6B;
+      color: white;
+      font-size: 20px;
+      cursor: pointer;
+    }
+    .nav-link{
+      color: white;
+    }
+    .nav-link:hover
+    {
+      color: #3FC1C9;
+    }
+     */

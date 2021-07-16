@@ -1,0 +1,120 @@
+
+
+/* anime1 for effects */
+
+
+.anime1{
+  
+  
+  transition:all 0.5s 0s;
+  transform: scale(0.95) !important;
+  
+  box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px !important;
+}
+.anime1:hover{
+  
+  transform: scale(0.98) !important;
+  cursor:pointer;
+}
+
+
+
+
+
+#wel {
+    margin-top: 20px;
+  }
+/* carousel main class wi */
+  .wi {
+    height: 500px;
+    color:cornsilk !important;
+    font-weight: bolder;
+    text-shadow: 1px 1px 5px grey !important;
+    font-family: 'Baloo Bhai 2', cursive !important;
+  }
+
+  .wi img {
+    height: 500px;
+  }
+/* carousel buttons */
+
+  .btn1 {
+    margin: 0px 8px;
+    
+    height: auto;
+  }
+
+  /* carousel imgs opacity */
+ 
+  
+  .imgclass{
+    
+    z-index: -1 !important;
+  }
+
+  .con {
+    /* border: 2px solid red; */
+    display: flexbox;
+    flex-direction: row;
+    align-items: center;
+
+  }
+
+  .con img {
+    height: 50px;
+    width: 50px;
+    padding: 5px;
+    /* color: transparent; */
+  }
+
+  .con li {
+
+    list-style: none;
+    display: inline;
+  }
+  .footer1{
+    display:flex;
+    align-items: center;
+    justify-content: flex-start;
+
+  }
+  .item2 img{
+    
+    padding: 8px;
+    height:8vh;
+    width: 3vw;
+  }
+  .item1{
+    margin-left: 105px;
+  }
+  .item3{
+    position:relative;
+    left:350px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+    font-weight: bold;
+
+  }
+ /* login container css */
+ .LoginContainer{
+   /* border: 2px solid black; */
+   padding:25px;
+   margin:3rem auto;
+   width: 50vw;
+   box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px !important;
+ }
+ /* logo img css */
+ .logo{
+
+  width: 250px;
+  height: 60px;
+
+ }
+ .green{
+   color: green;
+ }
+ .red{
+   color: red;
+ }
+ .violet{
+   color: violet;
+ }
